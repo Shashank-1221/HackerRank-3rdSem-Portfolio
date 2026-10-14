@@ -20,3 +20,7 @@
 - **Time Conversion Accepted:** `screenshots/time_conversion.png`
 - **Compare Triplets Accepted:** `screenshots/compare_triplets.png`
 - **Sparse Arrays Accepted:** `screenshots/sparse_arrays.png`
+
+- ## HackerRank Badges
+
+![HackerRank Badges](screenshots/hackerrank-badges.png)
